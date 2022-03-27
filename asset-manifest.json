@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-tt/static/css/main.cea5e4db.css",
+    "main.js": "/react-tt/static/js/main.58932ad8.js",
+    "index.html": "/react-tt/index.html",
+    "main.cea5e4db.css.map": "/react-tt/static/css/main.cea5e4db.css.map",
+    "main.58932ad8.js.map": "/react-tt/static/js/main.58932ad8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cea5e4db.css",
+    "static/js/main.58932ad8.js"
+  ]
+}
